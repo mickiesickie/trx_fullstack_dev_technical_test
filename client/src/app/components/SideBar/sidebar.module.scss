@@ -1,0 +1,25 @@
+.wrapper_sidebar {
+    @apply flex flex-row bg-prussian text-platinum flex-1 text-center justify-center relative;
+}
+.selected {
+    @apply text-platinum bg-cerulean;
+}
+
+.opened_item{
+    display: flex;    
+    width:100%;
+    min-width: 300px;
+    bottom:0;
+    display: flex;
+    top:0;
+    right: 100%;
+    height: 100%;
+    position: absolute;
+    @apply bg-cerulean;
+    overflow: auto;
+}
+
+
+.hidden{
+    display: none;
+}

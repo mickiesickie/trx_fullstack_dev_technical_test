@@ -1,0 +1,112 @@
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[11].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[11].oneOf[9].use[5]!./src/app/components/Layout/layout.module.scss ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.layout_wrapper_map__EWdqT {
+  width: 100%;
+  position: relative;
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+}
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[11].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[11].oneOf[9].use[5]!./src/app/components/Card/card.module.scss ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.card_card_wrapper__IpoeF {
+  border-radius: 3px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 5px 10px;
+  margin: 5px auto;
+  background-color: #003249ff;
+}
+/*!***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[11].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[11].oneOf[9].use[5]!./src/app/components/CardVehicle/card_vehicle.module.scss ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.card_vehicle_wrapper_card_vehicle__EK88n {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.card_vehicle_wrapper_card_title__GC3qz {
+  display: flex;
+  width: 100%;
+  position: relative;
+  align-items: center;
+  padding-bottom: 5px;
+}
+
+.card_vehicle_wrapper_card_tile_icon_car__YDvf3 {
+  font-size: 25px;
+}
+
+.card_vehicle_wrapper_card_title_text__66nB8 {
+  margin: 0px 10px;
+}
+
+.card_vehicle_wrapper_card_tile_icon_chevron__Ctu0Q {
+  right: 0px;
+  position: absolute;
+  top: 5px;
+}
+
+.card_vehicle_wrapper_card_description__RZPv6 {
+  display: none;
+  padding: 5px;
+  transition: all 1s ease-in-out;
+  font-size: 14px;
+  gap: 5px;
+}
+
+.card_vehicle_isOpen__l5TYO {
+  display: flex;
+  flex-wrap: wrap;
+  transition: all 1s ease-in;
+}
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[11].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[11].oneOf[9].use[5]!./src/app/components/SideBar/sidebar.module.scss ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.sidebar_wrapper_sidebar__BZ6cS {
+  position: relative;
+  display: flex;
+  flex: 1 1 0%;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #003249ff;
+  text-align: center;
+  color: #ccdbdcff;
+}
+
+.sidebar_selected__I3XfY {
+  background-color: #007ea7ff;
+  color: #ccdbdcff;
+}
+
+.sidebar_opened_item__0ZFXA {
+  width: 100%;
+  min-width: 300px;
+  bottom: 0;
+  display: flex;
+  top: 0;
+  right: 100%;
+  height: 100%;
+  position: absolute;
+  background-color: #007ea7ff;
+  overflow: auto;
+}
+
+.sidebar_hidden__dDwyL {
+  display: none;
+}
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[11].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[11].oneOf[9].use[5]!./src/app/page.module.scss ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.page_main__akH3E {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+  min-height: 700px;
+}

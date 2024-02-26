@@ -1,0 +1,9 @@
+.card_wrapper{
+    border-radius: 3px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 5px 10px;
+    margin:5px auto;
+    @apply bg-prussian;
+}

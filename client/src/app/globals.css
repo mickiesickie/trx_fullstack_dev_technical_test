@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    width: 100%;
+    display: flex;
+    /*justify-content: center;*/
+    @apply bg-platinum;
+}
+
+.input_ui{
+    margin:5px 0;
+    padding: 5px 10px;
+        @apply bg-blue_two text-prussian;
+}
